@@ -1,4 +1,4 @@
-# InventoryMangaementSystem
+# InventoryManagementSystem
 Project on inventory mangaement system 
 This project gives an idea how an Inventory works.
 This project contains section
