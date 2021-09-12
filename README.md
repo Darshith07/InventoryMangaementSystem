@@ -10,7 +10,7 @@ This project contains section
   -Purchase details
   -SALES details
 
-# Content Description
+
 Records of product--->it holds the record of every product which contains product id, name of the product,company name,price,quantity,expiry date.
 
 Adding new products-->This section adds new product to the record data of the products.
